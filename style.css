@@ -18,9 +18,10 @@
 main{
     
     background-color: white;
-    margin: 270px;
-    padding: 19px;
-    border: 10px;
+    margin: 230px;
+    padding: 36px;
+    border: 20px;
+    border-radius: 20px;
     width: 900px;
 }
 h1{
