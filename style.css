@@ -1,0 +1,152 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Raleway:wght@500&display=swap');
+
+@font-face {
+    font-family: Raleway ExtraBold;
+    src: url(Fontes/Raleway.otf) format(opentype);
+}
+
+
+*{
+    font-family: 'Raleway', sans-serif;
+}
+main{
+    
+    background-color: white;
+    margin: 270px;
+    padding: 19px;
+    border: 10px;
+    width: 900px;
+}
+h1{
+    font-family: Raleway ExtraBold, sans-serif;
+    font-weight: ;
+    font-size: 33px;
+    color: #2D2D2D;
+}
+.h21{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    color: #2D2D2D;
+}
+
+.h22{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    color: #008000;
+}
+
+.h23{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    color: #ff9900;
+}
+
+.h25{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    color: #2d2d2d;
+}
+
+
+body{
+    background-color: black;
+}
+
+img#im1{
+    width: 830px;
+}
+
+.p1{
+    
+    background-image: linear-gradient(to left, #ececec 99%, #074d9a 1%);
+    padding: 34px;
+    width: 730px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: large;
+    font-size: 19px;
+    text-align: center;
+    color: #074d9a;
+}
+
+a{
+    color: #E55305;
+}
+
+.p2{
+    color: #5B5B5B;
+    font-size: 19px;
+    text-align: justify;
+}
+
+.p3{
+
+    background-image: linear-gradient(to left, #ececec 99%, #074d9a 1%);
+    padding: 26px;
+    width: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: large;
+    font-size: 19px;
+    text-align: center;
+    color: #339966;
+
+}
+
+.p4 {
+    background-image: linear-gradient(to left, #ececec 99%, #074d9a 1%);
+    padding: 26px;
+    width: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: large;
+    font-size: 19px;
+    text-align: center;
+    color: #FF9900;
+}
+
+.h31{
+    color: #339966;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    display: inline-block; 
+    vertical-align: left;
+}
+
+.h32{
+
+    color: #FF9900;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    display: inline-block; 
+    vertical-align: left;
+
+}
+
+.h24{
+    color: #2d2d2d;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    display: inline-block; 
+    vertical-align: left;
+}
+
+.imgc{
+    text-align: center;
+    
+}
+
+.hel{
+
+    width: 180px;
+
+}
